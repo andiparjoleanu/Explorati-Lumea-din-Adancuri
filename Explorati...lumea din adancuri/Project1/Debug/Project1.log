@@ -1,0 +1,185 @@
+﻿  Source2.cpp
+c:\project1\project1\source2.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\project1\project1\source2.cpp(302): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(358): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(367): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\project1\project1\source2.cpp(367): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(369): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\project1\project1\source2.cpp(369): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(386): warning C4305: 'argument': truncation from 'int' to 'GLboolean'
+c:\project1\project1\source2.cpp(386): warning C4309: 'argument': truncation of constant value
+c:\project1\project1\source2.cpp(406): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(461): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(470): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\project1\project1\source2.cpp(470): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(472): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\project1\project1\source2.cpp(472): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(489): warning C4305: 'argument': truncation from 'int' to 'GLboolean'
+c:\project1\project1\source2.cpp(489): warning C4309: 'argument': truncation of constant value
+c:\project1\project1\source2.cpp(510): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(511): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(567): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(583): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(584): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(585): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(586): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(592): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(593): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(594): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(595): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(617): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(635): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\project1\project1\source2.cpp(635): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(637): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\project1\project1\source2.cpp(637): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(651): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(662): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\project1\project1\source2.cpp(662): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(663): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\project1\project1\source2.cpp(663): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(697): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(704): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\project1\project1\source2.cpp(704): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(724): warning C4305: 'argument': truncation from 'int' to 'GLboolean'
+c:\project1\project1\source2.cpp(724): warning C4309: 'argument': truncation of constant value
+c:\project1\project1\source2.cpp(745): warning C4305: 'argument': truncation from 'int' to 'GLboolean'
+c:\project1\project1\source2.cpp(745): warning C4309: 'argument': truncation of constant value
+c:\project1\project1\source2.cpp(767): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(768): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(769): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(770): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(796): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\project1\project1\source2.cpp(796): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(804): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(805): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(806): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(926): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\project1\project1\source2.cpp(983): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\project1\project1\source2.cpp(983): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(986): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(998): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(1010): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\project1\project1\source2.cpp(1010): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(1011): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+c:\project1\project1\source2.cpp(1011): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1012): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\project1\project1\source2.cpp(1012): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(1034): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\project1\project1\source2.cpp(1039): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(1042): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1043): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1044): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1045): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1052): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1053): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1054): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1055): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1059): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(1123): warning C4018: '<': signed/unsigned mismatch
+c:\project1\project1\source2.cpp(1189): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\project1\project1\source2.cpp(1191): warning C4018: '<': signed/unsigned mismatch
+c:\project1\project1\source2.cpp(1192): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\project1\project1\source2.cpp(1194): warning C4018: '<': signed/unsigned mismatch
+c:\project1\project1\source2.cpp(1199): warning C4018: '<': signed/unsigned mismatch
+c:\project1\project1\source2.cpp(1203): warning C4018: '<': signed/unsigned mismatch
+c:\project1\project1\source2.cpp(1220): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1221): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1228): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1229): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1238): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1239): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1240): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1241): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1250): warning C4305: 'argument': truncation from 'int' to 'GLboolean'
+c:\project1\project1\source2.cpp(1250): warning C4309: 'argument': truncation of constant value
+c:\project1\project1\source2.cpp(1256): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(1261): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(1329): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\project1\project1\source2.cpp(1334): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(1337): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(1338): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(1339): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(1341): warning C4305: '+=': truncation from 'double' to 'float'
+c:\project1\project1\source2.cpp(1342): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\project1\project1\source2.cpp(1347): warning C4018: '<': signed/unsigned mismatch
+c:\project1\project1\source2.cpp(1361): warning C4018: '<': signed/unsigned mismatch
+c:\project1\project1\source2.cpp(1366): warning C4018: '<': signed/unsigned mismatch
+c:\project1\project1\source2.cpp(1399): warning C4305: '=': truncation from 'double' to 'float'
+c:\project1\project1\source2.cpp(1406): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1407): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1408): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1409): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1417): warning C4305: '=': truncation from 'double' to 'float'
+c:\project1\project1\source2.cpp(1423): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1424): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1425): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1426): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1460): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1461): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1462): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1463): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1471): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1472): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1473): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1474): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\project1\project1\source2.cpp(1483): warning C4305: '+=': truncation from 'double' to 'float'
+c:\project1\project1\source2.cpp(1491): warning C4305: '-=': truncation from 'double' to 'float'
+c:\project1\project1\source2.cpp(1496): warning C4018: '<': signed/unsigned mismatch
+c:\project1\project1\source2.cpp(1515): warning C4018: '<': signed/unsigned mismatch
+c:\project1\project1\source2.cpp(1520): warning C4018: '<': signed/unsigned mismatch
+c:\project1\project1\source2.cpp(1616): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\project1\project1\source2.cpp(1621): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(1624): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(1625): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(1626): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(1628): warning C4305: '+=': truncation from 'double' to 'float'
+c:\project1\project1\source2.cpp(1629): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\project1\project1\source2.cpp(1651): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(1652): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(1659): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(1660): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\project1\project1\source2.cpp(1665): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(1718): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\project1\project1\source2.cpp(1719): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\project1\project1\source2.cpp(1720): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\project1\project1\source2.cpp(1721): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(1721): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(1725): warning C4305: '=': truncation from 'double' to 'float'
+c:\project1\project1\source2.cpp(1726): warning C4305: '=': truncation from 'double' to 'float'
+c:\project1\project1\source2.cpp(1753): warning C4305: '=': truncation from 'double' to 'float'
+c:\project1\project1\source2.cpp(1754): warning C4305: '=': truncation from 'double' to 'float'
+c:\project1\project1\source2.cpp(1758): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(1762): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(1783): warning C4018: '<': signed/unsigned mismatch
+c:\project1\project1\source2.cpp(1789): warning C4018: '<': signed/unsigned mismatch
+c:\project1\project1\source2.cpp(1802): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(1805): warning C4305: '=': truncation from 'double' to 'float'
+c:\project1\project1\source2.cpp(1806): warning C4305: '=': truncation from 'double' to 'float'
+c:\project1\project1\source2.cpp(1812): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(1815): warning C4305: '=': truncation from 'double' to 'float'
+c:\project1\project1\source2.cpp(1816): warning C4305: '=': truncation from 'double' to 'float'
+c:\project1\project1\source2.cpp(1822): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(1825): warning C4305: '=': truncation from 'double' to 'float'
+c:\project1\project1\source2.cpp(1826): warning C4305: '=': truncation from 'double' to 'float'
+c:\project1\project1\source2.cpp(1832): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(1835): warning C4305: '=': truncation from 'double' to 'float'
+c:\project1\project1\source2.cpp(1836): warning C4305: '=': truncation from 'double' to 'float'
+c:\project1\project1\source2.cpp(1846): warning C4018: '<': signed/unsigned mismatch
+c:\project1\project1\source2.cpp(1873): warning C4018: '<': signed/unsigned mismatch
+c:\project1\project1\source2.cpp(1883): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(1888): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(1891): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(1897): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(1899): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(1914): warning C4018: '<': signed/unsigned mismatch
+c:\project1\project1\source2.cpp(1928): warning C4018: '<': signed/unsigned mismatch
+c:\project1\project1\source2.cpp(1944): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(1949): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\project1\project1\source2.cpp(1963): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\project1\project1\source2.cpp(1972): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\project1\project1\source2.cpp(1981): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\project1\project1\source2.cpp(1990): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\project1\project1\source2.cpp(1999): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\project1\project1\source2.cpp(2008): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\project1\project1\source2.cpp(2017): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Project1.vcxproj -> C:\Project1\Debug\Project1.exe

@@ -1,3 +1,3 @@
-# Explorati...Lumea din Adancuri
+# Explorați...Lumea din Adancuri
 
 Aplicația ilustrează principalele concepte învățate în cadrul cursului Grafică pe Calculator. Utilizatorul deplasează, cu ajutorul tastelor săgeți, un avatar care face scufundări. El poate fotografia flora și fauna marină cu ajutorul aparatului de fotografiat incorporat in cască și poate vedea toate pozele făcute de la începutul scufundării în secțiunea „album”. Utilizatorul trebuie să fie atent la nivelul de oxigen pe care îl are avatarul cât timp acesta este sub apă. Dacă nivelul ajunge la 0, expediția se incheie. Pentru restabilirea nivelului de oxigen, utilizatorul trebuie să îl aducă pe scafandru deasupra apei.
